@@ -1,0 +1,1 @@
+this is the pod spec file for the Kubernetes deployment. It defines the configuration for the pod, including the containers, volumes, and other settings necessary for the application to run.
